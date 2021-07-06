@@ -15,4 +15,4 @@ You don't even need to understand assembly. Just open **`sequence8086`** Proteus
 
 ## License
 Released under the [GPLv3](LICENSE) license.
-Developed by [Bruna Caroline Russi](github.com/russibc).
+Developed by [Bruna](github.com/russibc).
